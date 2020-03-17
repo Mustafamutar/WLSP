@@ -9,3 +9,6 @@ with these project i hope that someday it will be a one exe program
 the code have a lots of errors i hope that all of you help me solving them  
 
 and i used pil library to help me with the images
+
+i work know on way to merge the to files into one python code and then make it exe program
+
